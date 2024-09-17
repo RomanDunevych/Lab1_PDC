@@ -1,0 +1,5 @@
+﻿  Lab1.cpp
+C:\Users\Roman\source\repos\Lab1\Lab1\Lab1.cpp(19,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Roman\source\repos\Lab1\Lab1\Lab1.cpp(68,13): warning C4566: character represented by universal-character-name '\u2304' cannot be represented in the current code page (1251)
+C:\Users\Roman\source\repos\Lab1\Lab1\Lab1.cpp(72,13): warning C4566: character represented by universal-character-name '\u2295' cannot be represented in the current code page (1251)
+  Lab1.vcxproj -> C:\Users\Roman\source\repos\Lab1\x64\Debug\Lab1.exe
